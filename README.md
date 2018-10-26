@@ -1,0 +1,1 @@
+This is an effort to keep the [modified TWRP recovery](https://forum.xda-developers.com/nexus-6p/general/guide-fix-nexus-6p-bootloop-death-blod-t3640279) used to fix the Nexus 6P "bootloop of death" up to date with the latest TWRP version using [Android Image Kitchen](https://forum.xda-developers.com/showthread.php?t=2073775).
